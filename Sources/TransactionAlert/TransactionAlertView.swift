@@ -299,7 +299,7 @@ public extension View {
 }
 fileprivate struct ViewWithTransactionAlertView<Root:View> : View {
     @EnvironmentObject var taViewModel : TAViewModel
-    @ObservedObject var manager = PartialSheetManager.init()
+    @StateObject var manager = PartialSheetManager.init()
     let root: Root
     var body: some View{
         
