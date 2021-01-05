@@ -3,9 +3,9 @@ TransactionAlert
 
 Animated Alert written in SwiftUI.
 
-![BackgroundImage](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png)_
-![BackgroundImage](https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/editScreenshot.png)
-
+![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/question.PNG)
+![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/loading.gif)
+![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/success.gif)
 Easy to use
 ----
 
