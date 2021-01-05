@@ -297,6 +297,7 @@ public extension View {
         
     }
 }
+
 fileprivate struct ViewWithTransactionAlertView<Root:View> : View {
     @EnvironmentObject var taViewModel : TAViewModel
     @StateObject var manager = PartialSheetManager.init()
