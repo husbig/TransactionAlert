@@ -72,3 +72,13 @@ taViewModel.set(.success(...)) // Success
 taViewModel.set(.custom(...)) // Also you can set custom view with style
 
 ```
+## Installation
+
+#### Requirements
+- iOS 14.0+ 
+- Xcode 11.2+
+- Swift 5+
+
+#### Via Swift Package Manager
+
+In Xcode 11 or grater, in you project, select: `File > Swift Packages > Add Pacakage Dependency`.
