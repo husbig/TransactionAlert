@@ -2,10 +2,9 @@ TransactionAlert
 ===========
 
 Animated Alert written in SwiftUI.
-
-![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/question.PNG)
-![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/loading.gif)
-![BackgroundImage](https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/success.gif)
+<img src="https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/question.PNG" width="25%"></img>
+<img src="https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/loading.gif" width="25%"></img>
+<img src="https://raw.githubusercontent.com/huseyinbagana/TransactionAlert/master/success.gif" width="25%"></img>
 Easy to use
 ----
 
