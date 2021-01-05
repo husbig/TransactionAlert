@@ -24,7 +24,7 @@ let package = Package(
         .target(
             name: "TransactionAlert",
             dependencies: ["Lottie","PartialSheet"],
-            resources: [.copy("taAnimation.json")]),
+            resources: [.process("Resources/taAnimation.json")]),
         .testTarget(
             name: "TransactionAlertTests",
             dependencies: ["TransactionAlert"]),

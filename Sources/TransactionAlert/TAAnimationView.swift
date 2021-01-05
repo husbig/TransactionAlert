@@ -10,7 +10,7 @@ import Lottie
 struct TAAnimationView: UIViewRepresentable {
     var lottieCompletionBlock : LottieCompletionBlock?
     @Binding var state : TAAlertState    
-    @State var animationView = AnimationView.init(name: "taAnimation", bundle:  Bundle(identifier: "com.bagana.TransactionAlert") ?? Bundle.main)
+    @State var animationView = AnimationView.init(name: "taAnimation", bundle:  Bundle.module)
     let backView = UIView()
     
     func makeUIView(context: UIViewRepresentableContext<TAAnimationView>) -> UIView {
